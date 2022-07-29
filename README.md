@@ -33,10 +33,11 @@ D.	0.6987
  with mean  = 38 and Standard deviation  =6. For each statement below, please specify True/False. If false, briefly 
  explain why.
  A.	More employees at the processing center are older than 44 than between 38 and 44.
+ B.	A training program for employees under the age of 30 at the center would be expected to attract about 36 employees.
 
 5.	Consider a company that has two different divisions. The annual profits from the two divisions are independent and have distributions Profit1 ~ N(5, 32) and Profit2 ~ N(7, 42) respectively. Both the profits are in $ Million. Answer the following questions about the total profit of the company in Rupees. Assume that $1 = Rs. 45
 A.	Specify a Rupee range (centered on the mean) such that it contains 95% probability for the annual profit of the company.
 B.	Specify the 5th percentile of profit (in Rupees) for the company
 C.	Which of the two divisions has a larger probability of making a loss in a given year?
 
-# B.	A training program for employees under the age of 30 at the center would be expected to attract about 36 employees.
+

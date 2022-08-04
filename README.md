@@ -48,5 +48,22 @@ I.	If the sample were based on 2,000 users, could Microsoft conclude that Mozill
 
 II.	WebSideStory claims that its sample includes all the daily Internet users. If that’s the case, then can Microsoft conclude that Mozilla has a less than 5% share of the market?
 
+#SET 4:
+
+3.	Auditors at a small community bank randomly sample 100 withdrawal transactions made during the week at an ATM machine located near the bank’s main branch. Over the past 2 years, the average withdrawal amount has been $50 with a standard deviation of $40. Since audit investigations are typically expensive, the auditors decide to not initiate further investigations if the mean transaction amount of the sample is between $45 and $55. What is the probability that in any given week, there will be an investigation?
+
+A.	1.25%
+B.	2.5%
+C.	10.55%
+D.	21.1%
+E.	50%
+
+
+4.	The auditors from the above example would like to maintain the probability of investigation to 5%. Which of the following represents the minimum number transactions that they should sample if they do not want to change the thresholds of 45 and 55? Assume that the sample statistics remain unchanged.
+
+A.	144
+B.	150
+C.	196
+D.	250
 
 
